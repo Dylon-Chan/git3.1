@@ -1,2 +1,2 @@
 Hello world!
-THis is changes from feature2 branch!
+This is changes from feature2 branch!
