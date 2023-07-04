@@ -1,2 +1,2 @@
 Hello world!
-Now I edit in GitHub!
+THis is changes from feature2 branch!
